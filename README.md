@@ -1,7 +1,7 @@
 # todoList
 Must have spring boot and maven both downlaoded
 
-Download the repo and go into it then run the command ./mvnw spring-boot:run
+Once you download the repo enter into it and run the command ./mvnw spring-boot:run to start the application
 
 ### Simple demo of a todo list
 
