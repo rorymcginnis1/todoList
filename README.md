@@ -1,13 +1,15 @@
 # todoList
 Must have spring boot and maven both downlaoded
 
-Once you download the repo enter into it and run the following commands
+Once you download the repo enter into it and run the following commands (on mac)
 
 export JAVA_HOME=$(/usr/libexec/java_home)
 
 mvn -N io.takari:maven:wrapper
 
-./mvnw spring-boot:run to start the application
+./mvnw spring-boot:run
+
+ths will start the application
 
 Then the todo list application will be available on localhost:3000/
 
