@@ -2,7 +2,13 @@
 
 ## description
 
+A todo list application with CRUD functionalities for task management. Designed and Integrated RESTful APIs to 
+streamline task data access. Implimneted user-friendly features for toggling task completion status as well as 
+addition and deletion, enhancing the users task management.
 
+## Tools and Frameworks
+
+(Java, JS, HTML, CSS, SpringBoot, RESTful APIs)
 
 ## requirements
 Must have spring boot and maven both downloaded
