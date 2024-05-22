@@ -2,7 +2,7 @@
 
 ## description
 
-A todo list application with CRUD functionalities for task management. Designed and Integrated RESTful APIs to 
+A todo list application with CRUD functionalities for task management from scratch. Designed and Integrated RESTful APIs to 
 streamline task data access. Implimneted user-friendly features for toggling task completion status as well as 
 addition and deletion, enhancing the users task management.
 
