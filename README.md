@@ -1,16 +1,16 @@
-# todoList
+# TodoList
 
-## description
+## Description
 
 A todo list application with CRUD functionalities for task management from scratch. Designed and Integrated RESTful APIs to 
-streamline task data access. Implimneted user-friendly features for toggling task completion status as well as 
-addition and deletion, enhancing the users task management.
+streamline task data access. Implemented user-friendly features for toggling task completion status as well as 
+addition and deletion, enhancing the user's task management.
 
 ## Tools and Frameworks
 
 (Java, JS, HTML, CSS, SpringBoot, RESTful APIs)
 
-## requirements
+## Requirements
 Must have spring boot and maven both downloaded
 
 Once you download the repo enter into it and run the following commands (on mac)
@@ -21,7 +21,7 @@ mvn -N io.takari:maven:wrapper
 
 ./mvnw spring-boot:run
 
-ths will start the application
+this will start the application
 
 Then the todo list application will be available on localhost:3000/
 
