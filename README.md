@@ -1,5 +1,11 @@
 # todoList
-Must have spring boot and maven both downlaoded
+
+## description
+
+
+
+## requirements
+Must have spring boot and maven both downloaded
 
 Once you download the repo enter into it and run the following commands (on mac)
 
